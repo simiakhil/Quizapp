@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What does BBC stand for?",
+      "ans": "British Broadcasting Corporation",
+      "options": [
+        "British Board Corporation",
+        "British Board corporate",
+        "British Broadcasting Corporation",
+        "British Broadcasting corporate"
+      ]
+    },
+    {
+      "question": "In meters, how long is an Olympic swimming pool?",
+      "ans": "50 metres",
+      "options": [
+        "200 meters",
+        "50 meters",
+        "100 meters",
+        "400 meters"
+      ]
+    },
+    {
+      "question": "Who has won the most total Academy Awards?",
+      "ans": "Walt Disney",
+      "options": [
+        "Jim Carrey",
+        "Walt Disney",
+        "Leonardo DiCaprio",
+        "Robert De Niro"
+      ]
+    },
+    {
+      "question": "What year did World War II end?",
+      "ans": "1945",
+      "options": [
+        "1974",
+        "1963",
+        "1952",
+        "1945"
+      ]
+    },
+    {
+      "question": "What's the highest mountain in the world?",
+      "ans": "Mount Everest",
+      "options": [
+        "Mount Everest",
+        "Kangchenjunga",
+        "Kabru",
+        "Saltoro Kangri"
+      ]
+    },
+    {
+      "question": "What's the name of the river that runs through Egypt?",
+      "ans": "The Nile",
+      "options": [
+        "Ganges",
+        "The Nile",
+        "Indus River",
+        "Mississippi River"
+      ]
+    },
+    {
+      "question": "Where is the strongest human muscle located?",
+      "ans": "Jaw",
+      "options": [
+        "Hip",
+        "Thigh",
+        "Jaw",
+        "Collar"
+      ]
+    },
+    {
+      "question": "Which is the only body part that is fully grown from birth?",
+      "ans": "Eyes",
+      "options": [
+        "Eyes",
+        "Nose",
+        "Ear",
+        "Lips"
+      ]
+    },
+    {
+      "question": "What is acrophobia a fear of?",
+      "ans": "Height",
+      "options": [
+        "Darkness",
+        "Long Words",
+        "closed Space",
+        "Height"
+      ]
+    }
+  ]
+  
